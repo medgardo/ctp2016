@@ -1,4 +1,4 @@
-# Homework 2
+# Homework 2 (Due July 29, 2016)
 
 1. Build a personal (professional) webpage. Follow the following criteria
     * Use HTML5, CSS, Bootstrap
