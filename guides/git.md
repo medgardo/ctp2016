@@ -21,6 +21,13 @@ Anytime you setup git for the first time on a computer or virtual machine, you s
 * **Codecademy Learn Git:** [https://www.codecademy.com/learn/learn-git](https://www.codecademy.com/learn/learn-git)
     - _NOTE_: The codecademy content is really high quality, but I ran into some bugs using the interface where the cursor constantly got lost. Closing and reopening the bash prompt would fix it. If you can't get through it, the other resources above cover the same things
 
+## References
+* Git Book
+    - [https://git-scm.com/doc](https://git-scm.com/doc)
+* Git Command Reference
+    - [https://git-scm.com/docs](https://git-scm.com/doc)
+* Git and Github resources
+    - [https://help.github.com/articles/good-resources-for-learning-git-and-github/](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 
 ## Advanced References
 The following are resources for advanced usage of Git and Github. You don't have to spend time now (early semester) on this material, but rather, refer back here when you need to.
@@ -28,6 +35,8 @@ The following are resources for advanced usage of Git and Github. You don't have
 * The full Codemy School Git Playlist (7 videos)
     - A lot of the advanced topics here, may only make sense once we begin working in groups.
     - [https://www.youtube.com/playlist?list=PLjQo0sojbbxVHcVN4h9DMu6U6spKk21uP](https://www.youtube.com/playlist?list=PLjQo0sojbbxVHcVN4h9DMu6U6spKk21uP)
+* Git Workflows (Atlassian Docs)
+    - [https://www.atlassian.com/git/tutorials/comparing-workflows/](https://www.atlassian.com/git/tutorials/comparing-workflows/)
 
 
 ## One Time Setup
