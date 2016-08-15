@@ -14,6 +14,7 @@ See the proposal requirements here: [demo_project_proposal_1.pdf](demo_project_p
 
 Teams of 3 should be formed and notify corresponding TA's of Team Name by Due date.
 
+The only requirement is that all 3 team members must belong to the same Class Section.
 
 ## 03: Team Project Proposal
 **Due September 12, 2016 by Noon EST**
