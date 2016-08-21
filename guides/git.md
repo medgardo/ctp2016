@@ -49,7 +49,7 @@ git config --global user.email "my@email.com"
 
 git config --global push.default simple
 # `input` on mac/linux, `true` on windows
-git config --global core.autocrfl input
+git config --global core.autocrlf input
 ```
 
 ### Explanation of the final two commands
@@ -61,9 +61,9 @@ This tells git to only push updates from your current branch up to remote reposi
 
 ```bash
 # mac/linux
-git config --global core.autocrfl input
+git config --global core.autocrlf input
 # windows only
-git config --global core.autocrfl true
+git config --global core.autocrlf true
 ```
 
 This setting deals with the end of lines (EOL) in your code files. For the best compatibility across platforms, it is best if windows users set this to `true` and Mac/Linux users set this to `input`.
