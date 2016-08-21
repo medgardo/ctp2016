@@ -24,7 +24,7 @@ The following is a brief overview of the contents of this repository.
 [`/guides/`](guides)
 
 > This directory contains various guides and resources for self-learning topics and technologies we will not have time to dive into in lecture.
-
+ 
 [`/lecture-notes/`](lecture-notes)
 
 > This directory contains all of the lecture materials for each module of the technical curriculum
