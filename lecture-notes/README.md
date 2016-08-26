@@ -51,6 +51,7 @@ Invitations for four coding challenges were sent out:
 ## Lecture 1
 **Week of 8/23-8/26**
 
+[Slides](lecture_slides_01.pdf)
 
 
 Topics:
