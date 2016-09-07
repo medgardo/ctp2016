@@ -61,3 +61,17 @@ Topics:
 * Labs Overview
 * Getting the Microblog App
 
+
+## Lecture 2
+**Week of 8/30-9/02**
+
+[Slides](lecture_slides_02.pdf) |
+[Notes](02/class-notes.md)
+
+Topics:
+
+* Client-Server Communications
+* URL's
+* Understanding the HTTP Request-Response
+* Designing the Microblog
+* Overview of the Microblog code
