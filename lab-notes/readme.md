@@ -4,6 +4,8 @@
 
 _Latest lab material at the bottom_
 
+You can access all Coding Challenge questions and some test inputs in the [private shared folder](https://www.dropbox.com/sh/k03g0tihuocg57x/AADnKKS_9mdz4ZNBgt2lcyYUa?dl=0)
+
 ## Lab 1
 **September 6-9, 2016**
 
