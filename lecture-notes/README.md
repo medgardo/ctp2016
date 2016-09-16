@@ -75,3 +75,18 @@ Topics:
 * Understanding the HTTP Request-Response
 * Designing the Microblog
 * Overview of the Microblog code
+
+## Lecture 3
+**Week of 9/13-9/16**
+
+[Slides](lecture_slides_02.pdf) |
+[Lecture Code](https://github.com/medgardo/ctp-lecture-code)
+
+Topics:
+
+* Building an App in Express.js from Scratch
+    - Introduction to the Express.js Framework
+    - The Model-View-Controller (MVC) Architecture
+    - RESTful Routing (GET, POST, PUT, DELETE)
+    - Intro to Testing with Mocha/Chai
+
