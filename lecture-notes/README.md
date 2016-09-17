@@ -79,7 +79,7 @@ Topics:
 ## Lecture 3
 **Week of 9/13-9/16**
 
-[Slides](lecture_slides_02.pdf) |
+[Slides](lecture_slides_03.pdf) |
 [Lecture Code](https://github.com/medgardo/ctp-lecture-code)
 
 Topics:
