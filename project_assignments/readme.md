@@ -43,8 +43,11 @@ See the team project proposal requirements here: [team_demo_project_proposal_1.p
     - Create "stub" controllers for your URL routes
     - Create pending tests describing the functionality you will be testing
     - Add a `docs/` directory where you will store design documents
+
 ### What to submit
-Provide your Lab Instructor
+
+Provide your Lab Instructor the following:
+
 - the team Github link
     + Push your code to a team Github repository
     + Add team members as collaborators on the repository
