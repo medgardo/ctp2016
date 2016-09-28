@@ -33,3 +33,14 @@ You can access all Coding Challenge questions and some test inputs in the [priva
 * [Review Handout 2](lab-2/stacks_queues_sets_handout.md)
 * [Harness Code](lab-2/lab2_harness.java)
 
+
+## Lab 3
+**October 5-14, 2016**
+
+### Coding Challenge: Sorting
+
+* *Name:* CTP Lab 3
+* *Due date:* October 5, 2016 by Noon
+* [Review Handout 3](lab-3/searching_and_sorting_handout.md)
+* [Harness Code](lab-3/lab3_harness.java)
+
