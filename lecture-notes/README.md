@@ -80,7 +80,7 @@ Topics:
 **Week of 9/13-9/16**
 
 [Slides](lecture_slides_03.pdf) |
-[Lecture Code](https://github.com/medgardo/ctp-lecture-code)
+[Lecture Code](https://github.com/medgardo/ctp-lecture-code/tree/master/module-03)
 
 Topics:
 
@@ -89,4 +89,22 @@ Topics:
     - The Model-View-Controller (MVC) Architecture
     - RESTful Routing (GET, POST, PUT, DELETE)
     - Intro to Testing with Mocha/Chai
+
+
+## Lecture 4
+**Week of 9/27 - 9/30**
+
+[Slides](lecture_slides_04.pdf) |
+[Lecture Code](https://github.com/medgardo/ctp-lecture-code/tree/master/module-04)
+
+Topics:
+
+* Relational Databases
+    - Data Normalization
+    - Relations (_1-to-1_, _1-to-Many_, _Many-to-Many_)
+* ORM's (Object-Relational Mapping)
+    - Sequelize.js
+* Views and Templates
+    - Handlebars
+
 
