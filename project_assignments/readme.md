@@ -52,3 +52,37 @@ Provide your Lab Instructor the following:
     + Push your code to a team Github repository
     + Add team members as collaborators on the repository
 - your Design and Planning document
+
+## 05: Project Models and Views
+**Due before your sections Lecture 5 meeting (Week 10/17-10/21)**
+
+This is a checkpoint assignment. We will be looking for the following to be implemented in your project:
+
+- Added a database
+- Created models
+- Added a templating engine (or html frontend)
+- Created templates
+- At least one route in your controller uses a model to query the database and generates HTML output using a view.
+
+### What to submit
+
+* Push code to your github repository
+* Your Lab Instructor will check for updates in your `master` branch.
+
+
+
+## 06: Project Progress Presentation
+**Due date: To be presented in your sections Lab 4 meeting (Week 10/25-10/28)**
+
+For this assignment you will be creating a presentation to present to your fellow classmates and instructors. In this presentation you will be presenting your project progress so far.
+
+### Presentation Guidelines:
+
+* 10 minutes (7min-presentation, 3min-questions)
+* All team members must present at least one slide
+* See presentation template here: [project_progress_presentation_template.pdf](project_progress_presentation_template.pdf)
+
+### What to submit
+
+* You must be prepared to present during your teams Lab 4 meeting.
+* One presentation per team must be submitted to your Lab Instructor by the end of Lab 4.
