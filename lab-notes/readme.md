@@ -32,6 +32,7 @@ You can access all Coding Challenge questions and some test inputs in the [priva
 * *Due date:* September 20, 2016 by Noon
 * [Review Handout 2](lab-2/stacks_queues_sets_handout.md)
 * [Harness Code](lab-2/lab2_harness.java)
+* [Solution](lab-2/lab2_solution.java)
 
 
 ## Lab 3
@@ -43,4 +44,16 @@ You can access all Coding Challenge questions and some test inputs in the [priva
 * *Due date:* October 5, 2016 by Noon
 * [Review Handout 3](lab-3/searching_and_sorting_handout.md)
 * [Harness Code](lab-3/lab3_harness.java)
+* [Solution](lab-3/lab3_solution.java)
+
+
+## Lab 4
+**October 28 - November 7, 2016**
+
+### Coding Challenge: Binary Search Trees
+
+* *Name:* CTP Lab 4
+* *Due date:* November 7, 2016 by Noon
+* [Review Handout 4](lab-4/trees_handout.md)
+* [Harness Code](lab-4/lab4_harness.java)
 
