@@ -107,4 +107,38 @@ Topics:
 * Views and Templates
     - Handlebars
 
+## Lecture 5
+**Week of 10/18 - 10/21**
+
+[Lecture Code](https://github.com/medgardo/ctp-lecture-code/tree/master/module-05)
+
+Topics:
+
+* Views with Handlebars
+* HTML Forms and POST requests
+* Unit Tests
+* Model validations
+
+## Lecture 6
+**Week of 11/1 - 11/4**
+
+[Slides](lecture_slides_06.pdf)
+
+Topics:
+
+* Best Practices
+    - `.gitignore`
+    - `node_modules`
+    - credential management
+    - Modules
+* More Frontend Topics
+    - Static Files
+    - Partials
+    - HTML Escaping
+    - Flash Messages
+* More Backend Topics
+    - Middleware
+    - Cookies
+    - Sessions
+    - Authentication
 
