@@ -57,3 +57,14 @@ You can access all Coding Challenge questions and some test inputs in the [priva
 * [Review Handout 4](lab-4/trees_handout.md)
 * [Harness Code](lab-4/lab4_harness.java)
 
+
+## Lab 5
+**November 11 - November 28, 2016**
+
+### Coding Challenge: Hashing
+
+* *Name:* CTP Lab 5
+* *Due date:* November 28, 2016 by Noon
+* Challenge has 3 separate questions (easy, medium, hard) and timed separately.
+* [Review Handout 5](lab-5/hashing_handout.md)
+
