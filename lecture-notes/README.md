@@ -142,3 +142,18 @@ Topics:
     - Sessions
     - Authentication
 
+## Lecture 7
+**Week of 12/12 - 12/16**
+
+[Slides](lecture_slides_07.pdf) |
+[Lecture Code](https://github.com/medgardo/ctp-lecture-code/tree/master/module-07)
+
+Topics:
+
+* API's
+    - What are they?
+    - Using a Web API
+    - Building a Web API
+* What is Ajax?
+* Web Application Architectures
+
